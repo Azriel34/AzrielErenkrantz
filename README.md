@@ -24,6 +24,14 @@ From backend logic to crafting user-friendly experiences, I aim to create softwa
   - Data Structures  
   - Building applications that solve real-world problems  
 
+**Some random projects I recently worked on:**
+
+### [Breakout Game - Java Project](https://github.com/Azriel34/Breakout/tree/main)
+### [Netflix-Like Streaming System](https://github.com/Azriel34/EX4/blob/main/docs/wiki.md)
+A Netflix-inspired streaming system integrating multiple technologies.  
+This project showcases backend and frontend development, database management, and API handling.
+
+
 
 I love collaborating on projects that push boundaries and bring ideas to life.
 If you’re into coding, innovation, or brainstorming exciting tech concepts—let’s connect!
